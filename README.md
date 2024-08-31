@@ -1,4 +1,4 @@
-# BeatTok
+# DevDynamos
 ## Inspiration
 We wanted to create a way for small artists to find a simple way to share their music with the world and provide tools to help them with their creations. Small artists especially would benefit from a beat generator for their music, so we created a beat generator using machine learning, eliminating the need to hire a dedicated producer. We also noticed that people enjoy scrolling, like on TikTok, so we decided to create BeatTok, where people can scroll through different user-uploaded music/beats.
 ## What it does

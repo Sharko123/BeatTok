@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "DevDynamos",
+			"path": ".."
+		},
+		{
+			"name": "AI-Beat-Maker-master",
+			"path": "../../Downloads/AI-Beat-Maker-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DevDynamos"
+	}
+}
